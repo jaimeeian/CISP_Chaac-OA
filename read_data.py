@@ -87,3 +87,30 @@ def download_OCADS_data(variables, scenarios):
             output[var][scen] = ds[actual_var_name]
 
     return output
+
+
+
+def download_SOCAT_data(product):
+
+    def pooch_load(url, filename):
+        return retrieve(url=url, known_hash=None, fname=filename)
+
+    base_url = "https://www.ncei.noaa.gov/data/oceans/ncei/ocads/data/0304549/SOCATv2025_Gridded_Data/"
+
+    if product == "coastal":
+        filename = "SOCATv2025_qrtrdeg_gridded_coast_monthly.nc"
+    elif product in ["monthly", "yearly", "decadal"]:
+        filename = f"SOCATv2025_tracks_gridded_{product}.nc"
+    else:
+        raise ValueError(f"{product} not recognized as available product or resolution in SOCAT")
+
+    url = f"{base_url}{filename}"
+    
+    try:
+        print(f"Downloading {filename}…")
+        ds = xr.open_dataset(pooch_load(url, filename))
+    except ReadTimeout:
+        print("Download timed out")
+
+
+    return ds
