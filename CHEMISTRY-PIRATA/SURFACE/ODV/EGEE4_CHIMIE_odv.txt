@@ -1,0 +1,12 @@
+//ODV Spreadsheet file : /media/irdbrest_ftp/pirata/pirata-data/chemistry/ODV/surface/EGEE4_CHIMIE_odv.txt
+//Data treated : 2025-01-14T17:20:15
+//<InstrumentType>Chemical bottle analysis</InstrumentType>
+//<Source>EGEE4_CHIMIE_SURFACE.xlsx</Sources>
+//<DataType>Bottles</DataType>
+//<Creator>Pierre.Rousselot@ird.fr</Creator>
+//
+Cruise	Sample	yyyy-mm-ddThh:mm:ss	Longitude [degrees_east]	Latitude [degrees_north]	SSTP [°C]	SSSP [PSU]	SSS [PSU]	NTIW [micromole/kg]	NTAW+NTIW [micromole/kg]	NTAW [micromole/kg]	PHOW [micromole/kg]	SLCW [micromole/kg]	CHC3 [microgramme/l]	CHCZ [microgramme/l]	PERP [microgramme/l]	BFUP [microgramme/l]	FUCP [microgramme/l]	NEXW [microgramme/l]	PXAP [microgramme/l]	VIOW [microgramme/l]	HFUP [microgramme/l]	ATXA [microgramme/l]	DXAP [microgramme/l]	AXAP [microgramme/l]	TXAP [microgramme/l]	ZXAP [microgramme/l]	LUTW [microgramme/l]	CHBD [microgramme/l]	CH2P [microgramme/l]	CHLB [microgramme/l]	AACP [microgramme/l]	BBCP [microgramme/l]	PHEP [microgramme/l]	CHAD [microgramme/l]	CH1P [microgramme/l]	CPHL [microgramme/l]	PHEA [microgramme/l]	CXAP [microgramme/l]
+EGEE4	1	19-Nov-2006T11:00:00Z	 -12.565	 +5.009	 28.795	 34.062		 0.00	  0.127	0.127	  0.03																												
+EGEE4	2	19-Nov-2006T18:01:00Z	 -11.838	 +4.011	 28.670	 34.497		 0.00	  0.146	0.146	  0.02	 0.83																											
+EGEE4	3	20-Nov-2006T00:08:00Z	 -11.222	 +3.166	 28.319	 34.955		 0.00	  0.127	0.127	  0.03	 0.74																											
+EGEE4	4	20-Nov-2006T09:00:00Z	 -10.358	 +1.988	 27.083	 35.611		 0.00	  0.137	0.137	  0.08	 0.64																											

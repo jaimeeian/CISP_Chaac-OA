@@ -1,0 +1,70 @@
+//ODV Spreadsheet file : /media/irdbrest_ftp/pirata/pirata-data/chemistry/ODV/surface/PIRATAFR12_CHIMIE_odv.txt
+//Data treated : 2025-01-14T17:14:36
+//<InstrumentType>Chemical bottle analysis</InstrumentType>
+//<Source>PIRATAFR12_CHIMIE_SURFACE.xlsx</Sources>
+//<DataType>Bottles</DataType>
+//<Creator>Pierre.Rousselot@ird.fr</Creator>
+//
+Cruise	Sample	yyyy-mm-ddThh:mm:ss	Longitude [degrees_east]	Latitude [degrees_north]	SSTP [°C]	SSSP [PSU]	SSS [PSU]	NTIW [micromole/kg]	NTAW+NTIW [micromole/kg]	NTAW [micromole/kg]	PHOW [micromole/kg]	SLCW [micromole/kg]	CHC3 [microgramme/l]	CHCZ [microgramme/l]	PERP [microgramme/l]	BFUP [microgramme/l]	FUCP [microgramme/l]	NEXW [microgramme/l]	PXAP [microgramme/l]	VIOW [microgramme/l]	HFUP [microgramme/l]	ATXA [microgramme/l]	DXAP [microgramme/l]	AXAP [microgramme/l]	TXAP [microgramme/l]	ZXAP [microgramme/l]	LUTW [microgramme/l]	CHBD [microgramme/l]	CH2P [microgramme/l]	CHLB [microgramme/l]	AACP [microgramme/l]	BBCP [microgramme/l]	PHEP [microgramme/l]	CHAD [microgramme/l]	CH1P [microgramme/l]	CPHL [microgramme/l]	PHEA [microgramme/l]	CXAP [microgramme/l]
+PIRATAFR12	1	29-Jan-2004T16:45:00Z	  +8.928	 +0.000	 28.888	 28.326	 28.340																																
+PIRATAFR12	2	29-Jan-2004T22:02:00Z	  +7.925	 +0.000	 28.870	 31.732	 31.750																																
+PIRATAFR12	3	30-Jan-2004T03:05:00Z	  +6.947	 +0.000	 28.942	 32.595	 32.587																																
+PIRATAFR12	4	30-Jan-2004T08:29:00Z	  +5.968	 +0.000	 28.687	 33.240	 33.257																																
+PIRATAFR12	5	30-Jan-2004T13:53:00Z	  +5.003	 +0.002	 29.196	 33.696	 33.730																																
+PIRATAFR12	6	30-Jan-2004T20:19:00Z	  +3.958	 +0.000	 28.925	 34.030	 34.040																																
+PIRATAFR12	7	31-Jan-2004T01:39:00Z	  +2.970	 +0.000	 28.918	 34.207	 34.203																																
+PIRATAFR12	8	31-Jan-2004T06:58:00Z	  +1.976	 +0.000	 29.146	 34.072	 34.102																																
+PIRATAFR12	9	31-Jan-2004T12:08:00Z	  +1.002	 +0.000	 29.344	 34.119	 34.130																																
+PIRATAFR12	10	01-Feb-2004T13:30:00Z	  -1.026	 -0.000	 28.861	 34.103	 33.907																																
+PIRATAFR12	11	01-Feb-2004T18:34:00Z	  -2.052	 +0.000	 28.968	 34.391	 34.414																																
+PIRATAFR12	12	01-Feb-2004T23:21:00Z	  -3.027	 +0.000	 28.592	 34.464	 34.501																																
+PIRATAFR12	13	02-Feb-2004T04:15:00Z	  -4.059	 -0.000	 28.431	 34.639	 34.659																																
+PIRATAFR12	14	02-Feb-2004T09:01:00Z	  -5.051	 -0.000	 28.341	 34.942	 34.949																																
+PIRATAFR12	15	02-Feb-2004T13:43:00Z	  -6.031	 -0.000	 28.549	 35.067	 35.090																																
+PIRATAFR12	16	02-Feb-2004T18:22:00Z	  -7.010	 +0.000	 28.401	 35.393	 35.413																																
+PIRATAFR12	17	02-Feb-2004T23:22:00Z	  -8.043	 +0.000	 27.687	 35.632	 35.656																																
+PIRATAFR12	18	03-Feb-2004T04:12:00Z	  -9.025	 -0.000	 27.752	 35.465	 35.493																																
+PIRATAFR12	19	03-Feb-2004T15:48:00Z	 -10.002	 +1.005	 28.848	 34.976																																	
+PIRATAFR12	20	09-Feb-2004T10:20:00Z	 -11.002	 -9.232	 26.738	 36.299	 36.239																																
+PIRATAFR12	21	09-Feb-2004T16:45:00Z	 -12.015	 -8.455	 27.550	 36.266	 36.211																																
+PIRATAFR12	22	09-Feb-2004T23:20:00Z	 -13.053	 -7.659	 27.439	 36.224	 36.164																																
+PIRATAFR12	23	10-Feb-2004T05:31:00Z	 -14.024	 -6.915	 27.710	 36.178	 36.128																																
+PIRATAFR12	24	10-Feb-2004T11:43:00Z	 -15.019	 -6.149	 27.877	 36.120	 36.058																																
+PIRATAFR12	25	10-Feb-2004T17:17:00Z	 -16.012	 -5.391	 28.230	 36.059	 35.995																																
+PIRATAFR12	26	10-Feb-2004T22:53:00Z	 -17.040	 -4.603	 28.098	 35.984	 35.925																																
+PIRATAFR12	27	11-Feb-2004T04:12:00Z	 -18.013	 -3.857	 28.234	 35.766	 35.710																																
+PIRATAFR12	28	11-Feb-2004T09:48:00Z	 -19.028	 -3.079	 28.336	 35.736	 35.687																																
+PIRATAFR12	29	11-Feb-2004T15:15:00Z	 -20.032	 -2.309	 28.412	 35.693	 35.646																																
+PIRATAFR12	30	11-Feb-2004T20:40:00Z	 -21.022	 -1.550	 28.055	 36.017	 35.977																																
+PIRATAFR12	31	12-Feb-2004T02:16:00Z	 -22.034	 -0.775	 28.097	 35.962	 35.923																																
+PIRATAFR12	32	13-Feb-2004T08:58:00Z	 -24.102	 +0.146	 28.219	 35.960	 35.930																																
+PIRATAFR12	33	13-Feb-2004T13:06:00Z	 -25.030	 +0.269	 28.074	 36.028	 35.986																																
+PIRATAFR12	34	13-Feb-2004T17:34:00Z	 -26.038	 +0.403	 28.206	 35.777	 35.740																																
+PIRATAFR12	35	13-Feb-2004T22:00:00Z	 -27.023	 +0.534	 28.085	 35.914	 35.845																																
+PIRATAFR12	36	14-Feb-2004T05:00:00Z	 -28.034	 +0.667	 28.027	 35.788	 35.750																																
+PIRATAFR12	37	14-Feb-2004T09:32:00Z	 -29.033	 +0.800	 27.858	 35.721	 35.671																																
+PIRATAFR12	38	14-Feb-2004T12:11:00Z	 -30.044	 +1.127	 27.945	 35.557	 35.420																																
+PIRATAFR12	39	14-Feb-2004T18:45:00Z	 -31.040	 +1.416	 28.156	 35.584	 35.535																																
+PIRATAFR12	40	14-Feb-2004T22:58:00Z	 -32.042	 +1.613	 27.923	 35.663	 35.607																																
+PIRATAFR12	41	15-Feb-2004T02:59:00Z	 -33.026	 +1.769	 27.892	 35.866	 35.805																																
+PIRATAFR12	42	15-Feb-2004T07:20:00Z	 -34.053	 +1.926	 27.843	 35.973	 35.920																																
+PIRATAFR12	43	15-Feb-2004T11:30:00Z	 -35.026	 +2.027	 27.865	 35.998	 35.944																																
+PIRATAFR12	44	15-Feb-2004T15:42:00Z	 -36.017	 +2.034	 27.881	 35.976	 35.918																																
+PIRATAFR12	45	15-Feb-2004T20:06:00Z	 -37.035	 +2.060	 27.893	 35.955	 35.907																																
+PIRATAFR12	46	16-Feb-2004T00:29:00Z	 -38.036	 +2.063	 27.978	 35.890	 35.830																																
+PIRATAFR12	47	16-Feb-2004T04:39:00Z	 -39.017	 +2.064	 28.028	 35.864	 35.808																																
+PIRATAFR12	48	16-Feb-2004T08:52:00Z	 -40.027	 +2.047	 27.983	 35.944	 35.895																																
+PIRATAFR12	49	16-Feb-2004T13:20:00Z	 -41.079	 +2.072	 27.892	 36.051	 35.995																																
+PIRATAFR12	50	16-Feb-2004T17:36:00Z	 -42.059	 +2.074	 28.024	 35.992	 35.942																																
+PIRATAFR12	51	16-Feb-2004T21:34:00Z	 -42.964	 +2.080	 27.972	 35.944	 35.888																																
+PIRATAFR12	52	17-Feb-2004T02:10:00Z	 -44.023	 +2.115	 27.906	 35.994	 35.935																																
+PIRATAFR12	53	17-Feb-2004T06:43:00Z	 -45.069	 +2.363	 27.915	 35.990	 35.939																																
+PIRATAFR12	54	17-Feb-2004T10:51:00Z	 -46.035	 +2.646	 27.904	 35.982	 35.928																																
+PIRATAFR12	55	17-Feb-2004T15:06:00Z	 -47.023	 +2.926	 27.988	 36.005	 35.957																																
+PIRATAFR12	56	17-Feb-2004T19:31:00Z	 -48.008	 +3.387	 28.048	 35.992	 35.939																																
+PIRATAFR12	57	18-Feb-2004T01:18:00Z	 -49.020	 +4.088	 27.837	 36.015	 35.959																																
+PIRATAFR12	58	18-Feb-2004T07:00:00Z	 -50.047	 +4.799	 27.724	 36.012	 35.952																																
+PIRATAFR12	59	18-Feb-2004T07:00:00Z	 -50.047	 +4.799																																			
+PIRATAFR12	60	18-Feb-2004T12:40:00Z	 -50.965	 +5.430	 27.834	 36.049	 35.993																																
+PIRATAFR12	61	18-Feb-2004T15:15:00Z	 -51.742	 +5.687	 27.880	 35.962																																	
+PIRATAFR12	62	19-Feb-2004T10:36:00Z	 -51.489	 +4.817	 27.751	 26.240																																	

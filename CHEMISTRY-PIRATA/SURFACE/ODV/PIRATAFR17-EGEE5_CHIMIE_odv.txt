@@ -1,0 +1,48 @@
+//ODV Spreadsheet file : /media/irdbrest_ftp/pirata/pirata-data/chemistry/ODV/surface/PIRATAFR17-EGEE5_CHIMIE_odv.txt
+//Data treated : 2025-01-14T17:17:05
+//<InstrumentType>Chemical bottle analysis</InstrumentType>
+//<Source>PIRATAFR17-EGEE5_CHIMIE_SURFACE.xlsx</Sources>
+//<DataType>Bottles</DataType>
+//<Creator>Pierre.Rousselot@ird.fr</Creator>
+//
+Cruise	Sample	yyyy-mm-ddThh:mm:ss	Longitude [degrees_east]	Latitude [degrees_north]	SSTP [°C]	SSSP [PSU]	SSS [PSU]	NTIW [micromole/kg]	NTAW+NTIW [micromole/kg]	NTAW [micromole/kg]	PHOW [micromole/kg]	SLCW [micromole/kg]	CHC3 [microgramme/l]	CHCZ [microgramme/l]	PERP [microgramme/l]	BFUP [microgramme/l]	FUCP [microgramme/l]	NEXW [microgramme/l]	PXAP [microgramme/l]	VIOW [microgramme/l]	HFUP [microgramme/l]	ATXA [microgramme/l]	DXAP [microgramme/l]	AXAP [microgramme/l]	TXAP [microgramme/l]	ZXAP [microgramme/l]	LUTW [microgramme/l]	CHBD [microgramme/l]	CH2P [microgramme/l]	CHLB [microgramme/l]	AACP [microgramme/l]	BBCP [microgramme/l]	PHEP [microgramme/l]	CHAD [microgramme/l]	CH1P [microgramme/l]	CPHL [microgramme/l]	PHEA [microgramme/l]	CXAP [microgramme/l]
+PIRATAFR17-EGEE5	1	05-Jun-2007T19:59:00Z	  +3.167	 +5.817	 28.850	 34.470	 34.489	 0.04	  0.000	0.045	  0.04	 0.65																											
+PIRATAFR17-EGEE5	2	06-Jun-2007T06:06:00Z	  +4.533	 +4.800	 28.790	 34.660	 34.663	 0.06	  0.028	0.088	  0.05	 0.74																											
+PIRATAFR17-EGEE5	3	06-Jun-2007T10:47:00Z	  +5.167	 +4.350	 28.910	 34.620	 34.712	 0.06	  0.106	0.166	  0.04	 0.69																											
+PIRATAFR17-EGEE5	4	06-Jun-2007T19:17:00Z	  +6.000	 +3.367	 28.340	 33.520	 33.688	 0.06	  0.003	0.059	  0.02	 1.87																											
+PIRATAFR17-EGEE5	5	06-Jun-2007T21:41:00Z	  +6.000	 +3.000	 28.540	 34.200	 34.581	 0.05	  0.034	0.088	  0.05	 0.33																											
+PIRATAFR17-EGEE5	6	07-Jun-2007T06:00:00Z	  +6.000	 +2.233	 28.430	 33.490	 33.705	 0.08	  0.000	0.077	  0.03	 0.43																											
+PIRATAFR17-EGEE5	7	08-Jun-2007T18:13:00Z	  +6.000	 -1.483	 25.780	 35.680	 35.676	 0.07	  0.008	0.078	  0.14	 1.46																											
+PIRATAFR17-EGEE5	8	09-Jun-2007T01:08:00Z	  +7.033	 -1.483	 25.460	 35.910	 35.908	 0.09	  0.000	0.086	  0.20	 1.49																											
+PIRATAFR17-EGEE5	9	09-Jun-2007T07:28:00Z	  +7.983	 -1.500	 24.800	 36.070	 36.102	 0.04	  0.032	0.068	  0.22	 1.41																											
+PIRATAFR17-EGEE5	10	09-Jun-2007T11:00:00Z	  +8.000	 -2.033	 25.340	 35.970	 35.989	 0.03	  0.031	0.059	  0.22	 1.48																											
+PIRATAFR17-EGEE5	11	09-Jun-2007T17:12:00Z	  +7.983	 -3.000	 25.780	 35.140	 35.178	 0.04	  0.032	0.068	  0.16	 2.36																											
+PIRATAFR17-EGEE5	12	09-Jun-2007T23:33:00Z	  +8.000	 -4.067	 25.430	 35.060	 35.148	 0.06	  0.030	0.088	  0.18	 2.58																											
+PIRATAFR17-EGEE5	13	10-Jun-2007T05:12:00Z	  +8.000	 -5.033	 25.420	 34.430	 34.325	 0.02	  0.051	0.068	  0.17	 4.47																											
+PIRATAFR17-EGEE5	14	11-Jun-2007T04:25:00Z	  +6.750	 -5.750	 26.280	 33.720	 33.718	 0.07	  0.012	0.078	  0.11	 2.73																											
+PIRATAFR17-EGEE5	15	11-Jun-2007T10:00:00Z	  +5.800	 -5.600	 26.590	 33.130	 33.142	 0.06	  0.000	0.061	  0.08	 3.21																											
+PIRATAFR17-EGEE5	16	11-Jun-2007T17:00:00Z	  +4.517	 -5.383	 26.560	 33.750	 33.722	 0.06	  0.025	0.088	  0.08	 3.32																											
+PIRATAFR17-EGEE5	17	11-Jun-2007T22:45:00Z	  +3.467	 -5.200	 26.390	 34.360	 34.440	 0.06	  0.000	0.056	  0.08	 1.92																											
+PIRATAFR17-EGEE5	18	20-Jun-2007T18:40:00Z	  +2.210	 +5.715	 27.940	 34.090	 34.076	 0.01	  0.006	0.020	  0.06	 0.68																											
+PIRATAFR17-EGEE5	19	20-Jun-2007T23:41:00Z	  +1.915	 +4.947	 27.080	 34.870	 34.899	 0.01	  0.078	0.088	  0.10	 0.78																											
+PIRATAFR17-EGEE5	20	21-Jun-2007T06:17:00Z	  +1.525	 +3.952	 27.820	 34.630	 34.762	 0.03	  0.071	0.098	  0.03	 0.31																											
+PIRATAFR17-EGEE5	21	21-Jun-2007T12:40:00Z	  +1.152	 +2.978	 28.170	 34.680	 34.713	 0.01	  0.059	0.068	  0.04	 0.17																											
+PIRATAFR17-EGEE5	22	21-Jun-2007T19:17:00Z	  +0.772	 +1.968	 28.220	 34.710	 34.779	 0.01	  0.074	0.088	  0.03	 0.23																											
+PIRATAFR17-EGEE5	23	22-Jun-2007T01:44:00Z	  +0.365	 +0.952	 27.890	 34.850	 34.883	 0.01	  0.083	0.098	  0.07	 0.38																											
+PIRATAFR17-EGEE5	24	23-Jun-2007T07:54:00Z	  -1.025	 -1.028	 26.630	 34.830	 34.810	 0.02	  0.114	0.137	  0.09	 0.70																											
+PIRATAFR17-EGEE5	25	23-Jun-2007T15:38:00Z	  -2.045	 -2.057	 25.180	 35.810	 35.834	 0.01	  0.133	0.146	  0.18	 1.06																											
+PIRATAFR17-EGEE5	26	23-Jun-2007T23:13:00Z	  -2.992	 -3.008	 25.220	 35.520	 35.585	 0.02	  0.081	0.098	  0.18	 0.87																											
+PIRATAFR17-EGEE5	27	24-Jun-2007T07:25:00Z	  -4.007	 -4.023	 25.200	 35.690	 35.724	 0.02	  0.062	0.078	  0.18	 1.03																											
+PIRATAFR17-EGEE5	28	24-Jun-2007T15:44:00Z	  -5.018	 -5.037	 26.240	 35.490	 35.480	 0.04	  0.000	0.038	  0.11	 0.60																											
+PIRATAFR17-EGEE5	29	25-Jun-2007T00:53:00Z	  -6.025	 -6.043	 25.950	 35.400	 35.331	 0.00	  0.045	0.049	  0.15	 0.48																											
+PIRATAFR17-EGEE5	30	25-Jun-2007T09:05:00Z	  -6.983	 -7.000	 26.150	 35.300	 35.900	 0.02	  0.033	0.049	  0.09	 0.43																											
+PIRATAFR17-EGEE5	31	25-Jun-2007T17:30:00Z	  -7.997	 -8.007	 25.870	 35.880	 36.270	 0.02	  0.023	0.039	  0.11	 0.39																											
+PIRATAFR17-EGEE5	32	26-Jun-2007T02:56:00Z	  -9.002	 -9.012	 25.810	 36.230	 35.422	 0.01	  0.024	0.039	  0.10	 0.45																											
+PIRATAFR17-EGEE5	33	01-Jul-2007T20:21:00Z	  -8.457	 +2.018	 27.440	 34.790	 34.912	 0.01	  0.031	0.039	  0.04	 0.29																											
+PIRATAFR17-EGEE5	34	02-Jul-2007T05:43:00Z	  -7.002	 +2.507	 27.300	 34.820	 34.912	 0.00	  0.046	0.049	  0.03	 0.28																											
+PIRATAFR17-EGEE5	35	02-Jul-2007T14:29:00Z	  -5.540	 +3.000	 27.580	 34.900	 34.987	 0.00	  0.046	0.049	  0.03	 0.31																											
+PIRATAFR17-EGEE5	36	02-Jul-2007T23:10:00Z	  -4.037	 +3.505	 27.430	 34.940	 35.000	 0.00	  0.049	0.049	  0.05	 0.39																											
+PIRATAFR17-EGEE5	37	03-Jul-2007T07:51:00Z	  -2.525	 +4.012	 27.280	 34.990	 35.036	 0.01	  0.049	0.059	  0.05	 0.36																											
+PIRATAFR17-EGEE5	38	03-Jul-2007T14:51:00Z	  -1.245	 +4.507	 26.400	 34.580	 34.653	 0.01	  0.089	0.098	  0.10	 0.36																											
+PIRATAFR17-EGEE5	39	03-Jul-2007T21:06:00Z	  -0.215	 +5.020	 24.460	 35.610	 35.671	 0.01	  0.095	0.107	  0.23	 1.61																											
+PIRATAFR17-EGEE5	40	04-Jul-2007T07:28:00Z	  -1.457	 +5.843	 26.860	 35.200	 35.284	 0.01	  0.101	0.107	  0.10	 0.89																											

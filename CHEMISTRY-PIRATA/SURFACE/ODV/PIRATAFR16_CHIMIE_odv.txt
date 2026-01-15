@@ -1,0 +1,43 @@
+//ODV Spreadsheet file : /media/irdbrest_ftp/pirata/pirata-data/chemistry/ODV/surface/PIRATAFR16_CHIMIE_odv.txt
+//Data treated : 2025-01-14T17:12:07
+//<InstrumentType>Chemical bottle analysis</InstrumentType>
+//<Source>PIRATAFR16_CHIMIE_SURFACE.xlsx</Sources>
+//<DataType>Bottles</DataType>
+//<Creator>Pierre.Rousselot@ird.fr</Creator>
+//
+Cruise	Sample	yyyy-mm-ddThh:mm:ss	Longitude [degrees_east]	Latitude [degrees_north]	SSTP [°C]	SSSP [PSU]	SSS [PSU]	NTIW [micromole/kg]	NTAW+NTIW [micromole/kg]	NTAW [micromole/kg]	PHOW [micromole/kg]	SLCW [micromole/kg]	CHC3 [microgramme/l]	CHCZ [microgramme/l]	PERP [microgramme/l]	BFUP [microgramme/l]	FUCP [microgramme/l]	NEXW [microgramme/l]	PXAP [microgramme/l]	VIOW [microgramme/l]	HFUP [microgramme/l]	ATXA [microgramme/l]	DXAP [microgramme/l]	AXAP [microgramme/l]	TXAP [microgramme/l]	ZXAP [microgramme/l]	LUTW [microgramme/l]	CHBD [microgramme/l]	CH2P [microgramme/l]	CHLB [microgramme/l]	AACP [microgramme/l]	BBCP [microgramme/l]	PHEP [microgramme/l]	CHAD [microgramme/l]	CH1P [microgramme/l]	CPHL [microgramme/l]	PHEA [microgramme/l]	CXAP [microgramme/l]
+PIRATAFR16	1	21-May-2007T12:03:00Z	 -18.532	+11.728			 35.796																																
+PIRATAFR16	2	21-May-2007T18:08:00Z	 -18.910	+10.728			 36.074																																
+PIRATAFR16	3	21-May-2007T23:59:00Z	 -19.286	 +9.764			 36.157																																
+PIRATAFR16	4	22-May-2007T06:00:00Z	 -19.669	 +8.752			 36.176																																
+PIRATAFR16	5	22-May-2007T11:55:00Z	 -19.977	 +7.946			 36.160																																
+PIRATAFR16	6	22-May-2007T18:00:00Z	 -20.335	 +6.982			 35.633																																
+PIRATAFR16	7	22-May-2007T23:57:00Z	 -20.703	 +6.035			 35.513																																
+PIRATAFR16	8	23-May-2007T06:04:00Z	 -21.065	 +5.086			 34.387																																
+PIRATAFR16	9	23-May-2007T12:04:00Z	 -21.425	 +4.144			 34.979																																
+PIRATAFR16	10	23-May-2007T17:55:00Z	 -21.781	 +3.196			 34.761																																
+PIRATAFR16	11	23-May-2007T23:58:00Z	 -22.140	 +2.246			 35.407																																
+PIRATAFR16	12	24-May-2007T05:54:00Z	 -22.485	 +1.326			 35.853																																
+PIRATAFR16	13	24-May-2007T12:08:00Z	 -22.865	 +0.313			 36.324																																
+PIRATAFR16	14	26-May-2007T00:07:00Z	 -22.367	 +0.003			 36.022																																
+PIRATAFR16	15	26-May-2007T06:02:00Z	 -21.461	 +0.001			 36.065																																
+PIRATAFR16	16	26-May-2007T12:32:00Z	 -20.439	 +0.001			 36.251																																
+PIRATAFR16	17	26-May-2007T17:54:00Z	 -19.598	 +0.002			 36.294																																
+PIRATAFR16	18	27-May-2007T00:03:00Z	 -18.633	 +0.003			 36.303																																
+PIRATAFR16	19	27-May-2007T06:03:00Z	 -17.273	 +0.007			 35.823																																
+PIRATAFR16	20	27-May-2007T12:05:00Z	 -17.150	 -0.009			 35.776																																
+PIRATAFR16	21	27-May-2007T18:00:00Z	 -16.299	 +0.009			 35.740																																
+PIRATAFR16	22	27-May-2007T23:59:00Z	 -15.404	 +0.013			 36.017																																
+PIRATAFR16	23	28-May-2007T06:03:00Z	 -14.492	 +0.015			 36.093																																
+PIRATAFR16	24	28-May-2007T11:56:00Z	 -13.665	 +0.019			 35.502																																
+PIRATAFR16	25	28-May-2007T17:55:00Z	 -12.981	 +0.018			 35.335																																
+PIRATAFR16	26	29-May-2007T00:02:00Z	 -12.094	 +0.017			 35.112																																
+PIRATAFR16	27	29-May-2007T06:03:00Z	 -11.271	 +0.021			 35.140																																
+PIRATAFR16	28	29-May-2007T11:54:00Z	 -10.473	 +0.025			 35.109																																
+PIRATAFR16	29	29-May-2007T16:28:00Z	  -9.912	 +0.024			 35.215																																
+PIRATAFR16	30	30-May-2007T18:01:00Z	  -9.307	 +0.322			 34.772																																
+PIRATAFR16	31	31-May-2007T12:06:00Z	  -6.923	 +1.554			 34.631																																
+PIRATAFR16	32	31-May-2007T18:01:00Z	  -6.058	 +1.993			 34.633																																
+PIRATAFR16	33	31-May-2007T23:42:00Z	  -5.218	 +2.444			 34.619																																
+PIRATAFR16	34	01-Jun-2007T06:02:00Z	  -4.266	 +2.953			 34.584																																
+PIRATAFR16	35	01-Jun-2007T14:40:00Z	  -2.952	 +3.567			 34.655																																

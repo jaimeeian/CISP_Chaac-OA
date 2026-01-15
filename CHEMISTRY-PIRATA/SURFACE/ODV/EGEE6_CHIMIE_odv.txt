@@ -1,0 +1,23 @@
+//ODV Spreadsheet file : /media/irdbrest_ftp/pirata/pirata-data/chemistry/ODV/surface/EGEE6_CHIMIE_odv.txt
+//Data treated : 2025-01-14T17:19:25
+//<InstrumentType>Chemical bottle analysis</InstrumentType>
+//<Source>EGEE6_CHIMIE_SURFACE.xlsx</Sources>
+//<DataType>Bottles</DataType>
+//<Creator>Pierre.Rousselot@ird.fr</Creator>
+//
+Cruise	Sample	yyyy-mm-ddThh:mm:ss	Longitude [degrees_east]	Latitude [degrees_north]	SSTP [°C]	SSSP [PSU]	SSS [PSU]	NTIW [micromole/kg]	NTAW+NTIW [micromole/kg]	NTAW [micromole/kg]	PHOW [micromole/kg]	SLCW [micromole/kg]	CHC3 [microgramme/l]	CHCZ [microgramme/l]	PERP [microgramme/l]	BFUP [microgramme/l]	FUCP [microgramme/l]	NEXW [microgramme/l]	PXAP [microgramme/l]	VIOW [microgramme/l]	HFUP [microgramme/l]	ATXA [microgramme/l]	DXAP [microgramme/l]	AXAP [microgramme/l]	TXAP [microgramme/l]	ZXAP [microgramme/l]	LUTW [microgramme/l]	CHBD [microgramme/l]	CH2P [microgramme/l]	CHLB [microgramme/l]	AACP [microgramme/l]	BBCP [microgramme/l]	PHEP [microgramme/l]	CHAD [microgramme/l]	CH1P [microgramme/l]	CPHL [microgramme/l]	PHEA [microgramme/l]	CXAP [microgramme/l]
+EGEE6	1	06-Sep-2007T10:17:00Z	  +4.832	 -0.500	 25.750	 35.350	 35.356	 0.00	  0.078	0.078	  0.04	 0.62																											
+EGEE6	2	06-Sep-2007T15:20:00Z	  +4.252	 -0.002	 26.570	 35.300	 35.303	 0.00	  0.137	0.137	  0.06	 0.54																											
+EGEE6	3	07-Sep-2007T01:31:00Z	  +3.085	 +1.000	 26.370	 35.420	 35.435	 0.00	  0.156	0.156	  0.05	 0.40																											
+EGEE6	4	07-Sep-2007T14:00:00Z	  +2.509	 +0.998	 26.760	 35.380	 35.446			0.000																													
+EGEE6	5	09-Sep-2007T02:30:00Z	  +1.400	 -3.063	 24.310	 35.550	 35.614	 0.00	  0.153	0.156	  0.23	 0.62																											
+EGEE6	6	09-Sep-2007T18:50:00Z	  -0.004	 -5.267	 23.780	 35.660	 35.663			0.000																													
+EGEE6	7	17-Sep-2007T11:51:00Z	  +0.964	 +5.005	 26.140	 35.340	 35.323	 0.00	  0.117	0.117	  0.17	 0.42																											
+EGEE6	8	17-Sep-2007T22:30:00Z	  +0.157	 +3.983	 25.590	 34.970	 35.011	 0.02	  0.128	0.146	  0.14	 0.50																											
+EGEE6	9	18-Sep-2007T08:54:00Z	  +1.240	 +2.983	 26.490	 34.760	 35.253	 0.00	  0.068	0.068	  0.06	 0.43																											
+EGEE6	10	18-Sep-2007T22:14:00Z	  +2.710	 +1.983	 26.400	 35.330	 35.355	 0.00	  0.127	0.127	  0.02	 0.87																											
+EGEE6	11	19-Sep-2007T11:31:00Z	  -4.143	 +1.000	 26.170	 35.360	 35.465	 0.00	  0.059	0.059	  0.06	 0.82																											
+EGEE6	12	20-Sep-2007T00:14:00Z	  -5.610	 -0.002	 25.130	 35.510	 35.592	 0.01	  0.147	0.156	  0.11	 1.02																											
+EGEE6	13	20-Sep-2007T12:39:00Z	  -7.061	 -1.003	 25.150	 35.410	 35.645	 0.03	  0.065	0.098	  0.13	 0.99																											
+EGEE6	14	21-Sep-2007T01:27:00Z	  -8.590	 -2.043	 24.740	 35.520	 35.672	 0.04	  0.321	0.361	  0.18	 1.05																											
+EGEE6	15	24-Sep-2007T17:38:00Z	  -8.681	 +2.023	 27.150	 35.530	 35.545																																

@@ -1,0 +1,41 @@
+//ODV Spreadsheet file : /media/irdbrest_ftp/pirata/pirata-data/chemistry/ODV/surface/PIRATAFR18_CHIMIE_odv.txt
+//Data treated : 2025-01-14T17:12:31
+//<InstrumentType>Chemical bottle analysis</InstrumentType>
+//<Source>PIRATAFR18_CHIMIE_SURFACE.xlsx</Sources>
+//<DataType>Bottles</DataType>
+//<Creator>Pierre.Rousselot@ird.fr</Creator>
+//
+Cruise	Sample	yyyy-mm-ddThh:mm:ss	Longitude [degrees_east]	Latitude [degrees_north]	SSTP [°C]	SSSP [PSU]	SSS [PSU]	NTIW [micromole/kg]	NTAW+NTIW [micromole/kg]	NTAW [micromole/kg]	PHOW [micromole/kg]	SLCW [micromole/kg]	CHC3 [microgramme/l]	CHCZ [microgramme/l]	PERP [microgramme/l]	BFUP [microgramme/l]	FUCP [microgramme/l]	NEXW [microgramme/l]	PXAP [microgramme/l]	VIOW [microgramme/l]	HFUP [microgramme/l]	ATXA [microgramme/l]	DXAP [microgramme/l]	AXAP [microgramme/l]	TXAP [microgramme/l]	ZXAP [microgramme/l]	LUTW [microgramme/l]	CHBD [microgramme/l]	CH2P [microgramme/l]	CHLB [microgramme/l]	AACP [microgramme/l]	BBCP [microgramme/l]	PHEP [microgramme/l]	CHAD [microgramme/l]	CH1P [microgramme/l]	CPHL [microgramme/l]	PHEA [microgramme/l]	CXAP [microgramme/l]
+PIRATAFR18	1	05-Sep-2008T07:20:00Z	  +0.778	 +2.013			 35.300																																
+PIRATAFR18	2	05-Sep-2008T10:35:00Z	  +0.976	 +2.515			 35.150																																
+PIRATAFR18	3	08-Sep-2008T22:48:00Z	  +2.157	 +5.873			 35.607																																
+PIRATAFR18	4	09-Sep-2008T02:28:00Z	  +1.986	 +5.514			 35.618																																
+PIRATAFR18	5	09-Sep-2008T07:20:00Z	  +1.430	 +5.004			 35.565																																
+PIRATAFR18	6	09-Sep-2008T11:44:00Z	  +1.048	 +4.502			 34.957																																
+PIRATAFR18	7	09-Sep-2008T16:22:00Z	  +0.677	 +4.015			 34.229																																
+PIRATAFR18	8	09-Sep-2008T21:10:00Z	  -0.283	 +3.483			 34.803																																
+PIRATAFR18	9	10-Sep-2008T01:58:00Z	  -0.107	 +2.983			 34.959																																
+PIRATAFR18	10	10-Sep-2008T06:13:00Z	  -0.473	 +2.501			 35.124																																
+PIRATAFR18	11	10-Sep-2008T15:00:00Z	  -1.240	 +1.493			 35.224																																
+PIRATAFR18	12	10-Sep-2008T19:19:00Z	  -1.622	 +1.002			 35.194																																
+PIRATAFR18	13	10-Sep-2008T23:44:00Z	  -2.011	 +0.474			 35.297																																
+PIRATAFR18	14	11-Sep-2008T03:55:00Z	  -2.386	 +0.018			 35.298																																
+PIRATAFR18	15	11-Sep-2008T08:08:00Z	  -2.765	 -0.518			 35.291																																
+PIRATAFR18	16	11-Sep-2008T12:24:00Z	  -3.144	 -1.015			 35.333																																
+PIRATAFR18	17	11-Sep-2008T16:29:00Z	  -3.506	 -1.496			 35.442																																
+PIRATAFR18	18	11-Sep-2008T20:43:00Z	  -3.618	 -2.006			 35.569																																
+PIRATAFR18	19	12-Sep-2008T00:51:00Z	  -4.659	 -2.505			 35.616																																
+PIRATAFR18	20	12-Sep-2008T05:00:00Z	  -4.659	 -3.012			 35.686																																
+PIRATAFR18	21	12-Sep-2008T13:15:00Z	  -5.043	 -3.526			 35.830																																
+PIRATAFR18	22	12-Sep-2008T13:07:00Z	  -5.399	 -4.015			 36.086																																
+PIRATAFR18	23	12-Sep-2008T17:01:00Z	  -5.774	 -4.507			 35.959																																
+PIRATAFR18	24	12-Sep-2008T21:00:00Z	  -6.148	 -5.019			 35.821																																
+PIRATAFR18	25	13-Sep-2008T00:53:00Z	  -6.518	 -5.513			 35.919																																
+PIRATAFR18	26	13-Sep-2008T05:01:00Z	  -6.913	 -6.013			 35.839																																
+PIRATAFR18	27	13-Sep-2008T08:58:00Z	  -7.273	 -6.509			 35.857																																
+PIRATAFR18	28	13-Sep-2008T13:00:00Z	  -7.660	 -7.009			 35.924																																
+PIRATAFR18	29	13-Sep-2008T17:00:00Z	  -8.041	 -7.515			 35.873																																
+PIRATAFR18	30	13-Sep-2008T21:08:00Z	  -8.440	 -8.025			 36.036																																
+PIRATAFR18	31	14-Sep-2008T01:16:00Z	  -8.821	 -8.541			 36.086																																
+PIRATAFR18	32	14-Sep-2008T05:05:00Z	  -9.181	 -9.000			 36.124																																
+PIRATAFR18	33	14-Sep-2008T09:30:00Z	  -9.574	 -9.525			 36.183																																
